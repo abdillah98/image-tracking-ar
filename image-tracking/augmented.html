@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+  <title>Document</title>
+  <!-- include A-Frame obviously -->
+  <script src="https://aframe.io/releases/0.7.0/aframe.min.js"></script>
+  <!-- include ar.js for A-Frame -->
+  <!-- <script src="https://jeromeetienne.github.io/AR.js/aframe/build/aframe-ar.js"></script> -->
+</head>
+<body>
+  <a-scene>
+    <a-entity scale=".2 .2 .2">
+      <a-entity 
+        gltf-model="assets/fi_buggy/scene.gltf" 
+        scale="-1 1 1"
+        position="0 1.25 -5"
+      ></a-entity>
+    </a-entity>
+    <!-- <a-marker-camera preset="hiro"></a-marker-camera> -->
+  </a-scene>
+</body>
+</html>

@@ -1,0 +1,11 @@
+Model Information:
+* title:	megalodon
+* source:	https://sketchfab.com/3d-models/megalodon-ecae76225ba24db8bd77f829f25a00b1
+* author:	Pablo Medrano (https://sketchfab.com/pjmedranog)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "megalodon" (https://sketchfab.com/3d-models/megalodon-ecae76225ba24db8bd77f829f25a00b1) by Pablo Medrano (https://sketchfab.com/pjmedranog) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
